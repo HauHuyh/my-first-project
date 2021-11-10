@@ -1,0 +1,28 @@
+.background{
+    background-color: aqua;
+   margin:auto;
+   width: 1000px;
+   
+}
+#header{
+    background-color:rgb(183, 173, 194);
+    height: 100px;
+}
+.body{
+    background-color: salmon;
+   height: 300px;
+   width: 80%;
+   float:right;
+}
+.menu{
+    
+    background-color: silver;
+    float:left;
+    width: 20%;
+    
+}
+.footer{
+    background-color:rgb(183, 173, 194);
+    clear: both;
+    height: 50px;
+}
